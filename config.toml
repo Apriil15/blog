@@ -11,6 +11,9 @@ pygmentscodefencesguesssyntax = true
 
 paginate = 3 # articles per page
 
+# Disqus
+disqusShortname = "apriil15"
+
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
